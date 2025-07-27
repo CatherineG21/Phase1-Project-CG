@@ -32,6 +32,9 @@ Including maintenance logs, pilot experience, and weather data.
 Using machine learning models to predict incident likelihoods.
 This will provide an even more robust framework for aviation safety assessment.
 
+## Interactive Dashboard
+<img width="1836" height="731" alt="Risk Assessment  Dashboard" src="https://github.com/user-attachments/assets/bd300a26-aa24-410e-9838-7972b3544395" />
+
 
 
 
