@@ -1,12 +1,12 @@
 # Phase1-Project-CG
 ## Overview
-This project analyzes historical aviation accident data from the U.S. National Transportation Safety Board (NTSB), covering over 60 years. The goal is to support investors and aviation stakeholders in identifying aircraft models with lower risk profiles to guide safer, more informed investment decisions.
-## Project Objectives
-The primary goal is to identify aircraft with lower risk profiles based on historical safety data. To achieve this, I have analyzed trends, cleaned and scored the data and visualized insights that lead to practical recommendations. Future directions include expanding the scope and integrating predictive 
+This project analyzes historical aviation accident data from the U.S. National Transportation Safety Board (NTSB). The goal is to support investors and aviation stakeholders in identifying aircraft models with lower risk profiles to guide safer, more informed investment decisions.
+## Project Objective
+The primary goal is to identify aircraft with lower risk profiles based on historical safety data. To achieve this, I have analyzed trends, cleaned and scored the data and visualized insights that lead to practical recommendations. Future directions include expanding the scope and integrating predictive analytics. 
 ## Why Aircraft Risk Matters in Aviation Investment
 In aviation, safety is a critical factor influencing operational costs, insurance premiums, and reputation. With many stakeholders eyeing fleet expansion or acquisitions, understanding historical safety trends enables better risk assessment and strategic decisions. The main goal is to demystify accident patterns and highlight safer aircraft options using data science.
 ## Aviation Accident Dataset Overview
-The data used in this analysis was sourced from the NTSB and spans from 1962 to 2023. After cleaning the dataset, I focused on essential variables like Event Year, Aircraft Make/Model, Average Risk Sore, Total Fatalities, Location and Weather Condition
+The data used in this analysis was sourced from the NTSB. After cleaning the dataset, I focused on essential variables like Event Year, Aircraft Make/Model, Average Risk Sore, Total Fatalities, Location and Weather Condition
 ## Data Analysis Work
 Data Cleaning – Removed irrelevant or missing values and standardized column names.
 
@@ -30,6 +30,7 @@ Incorporating global datasets for broader scope.
 Including maintenance logs, pilot experience, and weather data.
 
 Using machine learning models to predict incident likelihoods.
+
 This will provide an even more robust framework for aviation safety assessment.
 
 ## Interactive Dashboard
